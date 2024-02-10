@@ -25,7 +25,7 @@ To use this weather app:
 
 ## Screenshots
 
-[mobile.png]
+![Screenshot 1](https://github.com/StudyJam/weather/blob/main/mobile.png)
 
 ## Acknowledgements
 
